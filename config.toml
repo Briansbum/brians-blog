@@ -1,0 +1,34 @@
+baseurl = "https://alexfreestone.co.uk"
+languageCode = "en"
+title = "Alex Freestone | Getting Stuff Wrong"
+theme = "hucore"
+copyright = "&copy; 2017 | <a href=\"https://github.com/mgjohansen/hucore\" target=\"_blank\">Hucore theme</a> & <a href=\"http://gohugo.io\" target=\"_blank\">Hugo</a> ♥"
+disqusShortname = "brians-blog1"
+googleAnalytics = "UA-121788943-1"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[params]
+description = "Your description here"
+keywords = ["keyword 1", "keyword 2", "keyword 3"]
+author = "Alex Freestone"
+sharingicons = true
+displayauthor = true
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile" "bash", scala]
+
+[[params.social]]
+url = "https://github.com/Briansbum"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://twitter.com/briansbum"
+fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
