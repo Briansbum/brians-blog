@@ -19,7 +19,7 @@ displayauthor = true
 
 [params.highlight]
 style = "github"
-languages = ["go", "dockerfile" "bash", scala]
+languages = ["go", "dockerfile" "bash", "scala"]
 
 [[params.social]]
 url = "https://github.com/Briansbum"
