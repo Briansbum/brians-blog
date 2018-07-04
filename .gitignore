@@ -38,3 +38,4 @@ jspm_packages
 
 # Public directory after hugo builds
 public/*
+public
